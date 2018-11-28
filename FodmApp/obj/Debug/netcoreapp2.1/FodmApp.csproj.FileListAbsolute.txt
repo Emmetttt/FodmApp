@@ -1,0 +1,11 @@
+C:\Users\emmett.moore\source\repos\FodmApp\FodmApp\obj\Debug\netcoreapp2.1\FodmApp.csproj.CoreCompileInputs.cache
+C:\Users\emmett.moore\source\repos\FodmApp\FodmApp\obj\Debug\netcoreapp2.1\FodmApp.AssemblyInfoInputs.cache
+C:\Users\emmett.moore\source\repos\FodmApp\FodmApp\obj\Debug\netcoreapp2.1\FodmApp.AssemblyInfo.cs
+C:\Users\emmett.moore\source\repos\FodmApp\FodmApp\bin\Debug\netcoreapp2.1\FodmApp.deps.json
+C:\Users\emmett.moore\source\repos\FodmApp\FodmApp\bin\Debug\netcoreapp2.1\FodmApp.runtimeconfig.json
+C:\Users\emmett.moore\source\repos\FodmApp\FodmApp\bin\Debug\netcoreapp2.1\FodmApp.runtimeconfig.dev.json
+C:\Users\emmett.moore\source\repos\FodmApp\FodmApp\bin\Debug\netcoreapp2.1\FodmApp.dll
+C:\Users\emmett.moore\source\repos\FodmApp\FodmApp\bin\Debug\netcoreapp2.1\FodmApp.pdb
+C:\Users\emmett.moore\source\repos\FodmApp\FodmApp\obj\Debug\netcoreapp2.1\FodmApp.dll
+C:\Users\emmett.moore\source\repos\FodmApp\FodmApp\obj\Debug\netcoreapp2.1\FodmApp.pdb
+C:\Users\emmett.moore\source\repos\FodmApp\FodmApp\obj\Debug\netcoreapp2.1\FodmApp.csprojAssemblyReference.cache

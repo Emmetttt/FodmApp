@@ -3,3 +3,5 @@
 ################################################################################
 
 /FodmApp/appsettings.Development.json
+/FodmApp/appsettings.json
+/FodmApp/aws-beanstalk-tools-defaults.json
